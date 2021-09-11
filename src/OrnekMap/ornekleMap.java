@@ -44,6 +44,6 @@ while (secim.equalsIgnoreCase("E"));
         System.out.println("goruntulemek istediginiz kisinin bilgilerini gormek ister misiniz");
         System.out.println(kisiListesi.get(scan.nextInt()));
 
-
+//ne haber
     }
 }
